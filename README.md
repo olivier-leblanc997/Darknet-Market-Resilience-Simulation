@@ -7,7 +7,7 @@ This repository documents the end-to-end deployment of a redundant hidden servic
 - Concept: Research objectives and threat modeling.
 - Architecture: Technical stack and Tor routing.
 - Testing_Methodology: Specific scripts and pressure-test phases used.
-- Infrastructure_Analysis: Logs and observations on Njalla, OrangeWebsite, and NoData.
+- Infrastructure_Analysis: Logs and observations on Njalla, OrangeWebsite, and NoData.'
 
 ### Disclaimer
 This documentation is for research purposes only. It does not provide operational exploits or illegal materials.
