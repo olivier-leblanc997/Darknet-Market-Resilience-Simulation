@@ -10,7 +10,7 @@ To prevent server fingerprinting and mitigate common network-layer attacks, the 
 # Removing non-essential network services
 apt-get purge -y exim4 rpcbind 
 
-# Hardening the network stack via sysctl
+# Hardening the network stack via sysctl 
 cat <<EOF >> /etc/sysctl.conf
 net.ipv4.tcp_syncookies = 1
 net.ipv4.conf.all.rp_filter = 1
